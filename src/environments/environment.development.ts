@@ -1,3 +1,3 @@
 export const environment = {
-    apiUrl:'stellar-success-production.up.railway.app'
+    apiUrl:'http://localhost:8081'
 };
