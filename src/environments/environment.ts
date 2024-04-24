@@ -1,3 +1,3 @@
 export const environment = {
-    apiUrl: 'http://www.crickinformer.com'
+    apiUrl: 'http://stellar-success-production.up.railway.app.com'
 };
